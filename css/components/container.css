@@ -1,0 +1,33 @@
+.container{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Dancing Script', cursive;
+	border-radius: 5px;
+	background-image: url("../../images/road.jpg");
+	background-size: cover;
+	background-position: bottom;
+}
+#title{
+	background-color: white;
+	background-image: none;
+	color: black;
+}
+
+.container a{
+	color: black;
+	transition: color 0.3s ease;
+}
+.container a hover{
+	color: darkred;
+}
+.container h3{
+	color: whitesmoke;
+}
+.container p{
+	color: whitesmoke;
+}
+container h4{
+	color: black;
+}
